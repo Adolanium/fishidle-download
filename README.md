@@ -4,6 +4,14 @@ A cozy idle fishing game. Your crew of fishermen casts on their own while you up
 
 ![FishIdle](screenshot.png)
 
+## What's new in v0.2
+
+- **Angler Rank** now opens new waters and better rods and reels, so progress feels earned.
+- **Daily Tide Chart** log-in streak and three **Today's Tide** contracts that reset at midnight.
+- **Feeding Frenzy:** every few minutes of play the gulls dive and rare fish surface.
+- **Upgrades you can see:** reels on the rods, bait tins, creels that grow into sea chests, a busier market stall, and a harbor that grows with your rank.
+- Settings menu (Esc): sound, display, visuals, gameplay.
+
 ## Download
 
 **[Download FishIdle for Windows (zip)](https://github.com/Adolanium/fishidle-download/releases/latest/download/FishIdle.zip)**
